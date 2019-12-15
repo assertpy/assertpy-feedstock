@@ -1,13 +1,13 @@
 About assertpy
 ==============
 
-Home: https://github.com/ActivisionGameScience/assertpy
+Home: https://github.com/assertpy/assertpy
 
 Package license: BSD 3-Clause
 
 Feedstock license: BSD 3-Clause
 
-Summary: Assertion library for python unit testing with a fluent API
+Summary: Simple assertion library for unit testing in python with a fluent API
 
 
 
